@@ -1,0 +1,15 @@
+# Maven
+target/
+
+# Java
+*.class
+*.jar
+
+# Eclipse
+.metadata
+bin/
+.settings/
+.project
+.externalToolBuilders/
+*.launch
+.classpath
